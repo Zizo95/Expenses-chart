@@ -1,0 +1,65 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: hsl(27, 66%, 92%);
+
+}
+main{
+  margin: auto;
+  width: max-content;
+}
+.first-section{
+  background: hsl(10, 79%, 65%);
+  color: hsl(27, 66%, 92%);
+  padding: 10px;
+  margin: 10px;
+}
+section{
+
+  background: hsl(33, 100%, 98%);
+  padding: 10px;
+  margin: 10px;
+}
+h2{
+  color: hsl(25, 47%, 15%);
+}
+.graph{
+  position: relative;
+  top: -10px;
+  left: -30px;
+ display:inline-block ;
+  background: hsl(10, 79%, 65%);
+  height: 30px;
+  width: 25px;
+  margin: 5px 0;
+  border-radius: 3px;
+}
+.one{
+  height: 30px;
+}
+.two{
+  height: 50px;
+}
+.three{
+  background: hsl(186, 34%, 60%);
+  height: 80px;
+}
+.four{
+  height: 45px;
+}
+.five{
+  height: 35px;
+}
+.six{
+  height: 55px;
+}
+.seven{
+  height: 40px;
+}
+.amount{
+background: hsl(25, 47%, 15%);
+color:hsl(33, 100%, 98%);
+border-radius: 7px;
+padding: 5px;
+display: none;
+}
